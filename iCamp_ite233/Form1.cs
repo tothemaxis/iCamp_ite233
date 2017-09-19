@@ -21,5 +21,15 @@ namespace iCamp_ite233
         {
 
         }
+
+        private void textBox11_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label15_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
