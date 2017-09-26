@@ -16,7 +16,7 @@ namespace iCamp_ite233
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new register_form());
+            Application.Run(new home_form());
         }
     }
 }
