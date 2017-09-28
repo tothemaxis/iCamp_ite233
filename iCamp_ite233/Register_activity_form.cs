@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace iCamp_ite233
 {
-    public partial class Form3 : Form
+    public partial class Register_activity_form : Form
     {
-        public Form3()
+        public Register_activity_form()
         {
             InitializeComponent();
         }

@@ -18,8 +18,11 @@ namespace iCamp_ite233
         }
 
         private void button1_Click(object sender, EventArgs e)
-        {
-            this.Close();
+        {   
+            if (textBox1.TextLength > 0)
+            {
+                this.Close();
+            }
         }
     }
 }

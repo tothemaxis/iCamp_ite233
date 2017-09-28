@@ -12,10 +12,12 @@ namespace iCamp_ite233
 {
     public partial class home_form : Form
     {
+
         public home_form()
         {
             InitializeComponent();
         }
+
 
         private void button1_Click(object sender, EventArgs e)
         {
